@@ -1,0 +1,2 @@
+ros_challenge
+-DCATKIN_DEVEL_PREFIX=/home/sammy/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sammy/ros_ws/install -G Unix Makefiles

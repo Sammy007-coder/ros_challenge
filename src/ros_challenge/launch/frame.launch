@@ -1,0 +1,13 @@
+<launch>
+
+  <node pkg="ros_challenge" name="subscriber_1" type="subscriber" output="screen" launch-prefix="gnome-terminal -- "/>
+  <arg name="x"/>
+  <arg name="y"/>
+  <arg name="z"/>
+  <arg name="roll"/>
+  <arg name="pitch"/>
+  <arg name="yaw"/>
+  <node pkg="ros_challenge" name="publisher_1" type="publisher" args="$(arg x) $(arg y) $(arg z) $(arg roll) $(arg pitch) $(arg yaw)" output="screen" launch-prefix="gnome-terminal -- "/>
+
+</launch>
+

@@ -1,0 +1,27 @@
+# Hashes of file build rules.
+a69b352130c1f31aa9e63fb9d8e3fc5f /home/sammy/ros_ws/devel/include/ros_challenge/Orientation.h
+7b0d8a0facab755e550a1d93a2bfc0a6 /home/sammy/ros_ws/devel/include/ros_challenge/Position.h
+4c5f8447293301201a633f72721e8c65 /home/sammy/ros_ws/devel/include/ros_challenge/frame.h
+d897439b81f10807c3744e0c98d87e79 /home/sammy/ros_ws/devel/lib/python2.7/dist-packages/ros_challenge/msg/_Orientation.py
+aa479b849be6ebfcd9216fca5c501304 /home/sammy/ros_ws/devel/lib/python2.7/dist-packages/ros_challenge/msg/_Position.py
+95b77a0820824cbb5d7eeeac8c5036bc /home/sammy/ros_ws/devel/lib/python2.7/dist-packages/ros_challenge/msg/__init__.py
+fda9e854a30836ad58fc71d267772145 /home/sammy/ros_ws/devel/lib/python2.7/dist-packages/ros_challenge/msg/_frame.py
+5c41e257c8a786a7b801f8b5de40f673 /home/sammy/ros_ws/devel/share/common-lisp/ros/ros_challenge/msg/Orientation.lisp
+7f52b527945c0f22462ef1c1b3f2f98e /home/sammy/ros_ws/devel/share/common-lisp/ros/ros_challenge/msg/Position.lisp
+2c518d4da4add0165c9b1f7c81148dfd /home/sammy/ros_ws/devel/share/common-lisp/ros/ros_challenge/msg/frame.lisp
+9a10c30afdc1dd911867eae304028e12 /home/sammy/ros_ws/devel/share/gennodejs/ros/ros_challenge/msg/Orientation.js
+4b581de4b3c39b8b1ae777e0019079e5 /home/sammy/ros_ws/devel/share/gennodejs/ros/ros_challenge/msg/Position.js
+35a350213e7a2edde232b7c87f131689 /home/sammy/ros_ws/devel/share/gennodejs/ros/ros_challenge/msg/frame.js
+d9363e6510f4438fcf3091f76b0da9d7 /home/sammy/ros_ws/devel/share/roseus/ros/ros_challenge/manifest.l
+3050724b5b11ee22ad141dd0b2f26c0b /home/sammy/ros_ws/devel/share/roseus/ros/ros_challenge/msg/Orientation.l
+4932151b406cfa501ffd0c14513490ea /home/sammy/ros_ws/devel/share/roseus/ros/ros_challenge/msg/Position.l
+4d2e8be235e08c95a56324fc5acb9ad4 /home/sammy/ros_ws/devel/share/roseus/ros/ros_challenge/msg/frame.l
+221dbe3969d167d98ec4a74e5d75c7e8 CMakeFiles/clean_test_results
+3544fee2a412f9d32fde3239ca4a7675 ros_challenge/CMakeFiles/_ros_challenge_generate_messages_check_deps_Orientation
+64bb8db7c49d125f3e88a674f203c1c2 ros_challenge/CMakeFiles/_ros_challenge_generate_messages_check_deps_Position
+e330bdae1cebecdd2978882a540a74a6 ros_challenge/CMakeFiles/_ros_challenge_generate_messages_check_deps_frame
+85735e6dc1b7bc2e215dae712ec0c6c9 ros_challenge/CMakeFiles/ros_challenge_generate_messages_cpp
+85735e6dc1b7bc2e215dae712ec0c6c9 ros_challenge/CMakeFiles/ros_challenge_generate_messages_eus
+85735e6dc1b7bc2e215dae712ec0c6c9 ros_challenge/CMakeFiles/ros_challenge_generate_messages_lisp
+85735e6dc1b7bc2e215dae712ec0c6c9 ros_challenge/CMakeFiles/ros_challenge_generate_messages_nodejs
+85735e6dc1b7bc2e215dae712ec0c6c9 ros_challenge/CMakeFiles/ros_challenge_generate_messages_py
